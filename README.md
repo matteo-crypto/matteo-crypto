@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matteo-crypto
 - 👀 I’m interested in CS field
 - 🌱 I’m currently learning it in a bachelor degree at the University of Trento 
-- 💞️ I’m looking to go to Mars
+- 🚀 I’m looking to go to Mars
 - 📫 How to reach me ... @teo_circuitz on Telegram or IG
 
 <!---
